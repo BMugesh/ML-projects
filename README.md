@@ -178,10 +178,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Author**: [Your Name]
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+- **Author**: **BALA MUGESH M K **
+- **Email**: **mkbm1307@gmail.com**
+- **LinkedIn**: **https://www.linkedin.com/in/bala-mugesh-m-k/**
+- **GitHub**: 
 
 ## 🙏 Acknowledgments
 
@@ -197,7 +197,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **Star this repository to showcase these completed ML projects!** ⭐
 
 *All projects completed: December 2024*
-*Repository last updated: $(date)*
+*Repository last updated: JULY 2026*
 
 ---
 
