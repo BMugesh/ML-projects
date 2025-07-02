@@ -181,7 +181,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Author**: **BALA MUGESH M K**
 - **Email**: **mkbm1307@gmail.com**
 - **LinkedIn**: **https://www.linkedin.com/in/bala-mugesh-m-k/**
-- **GitHub**: 
+- **GitHub**: **https://github.com/BMugesh**
 
 ## 🙏 Acknowledgments
 
